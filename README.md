@@ -16,7 +16,7 @@ This repository contains R scripts developed for the statistical analysis and vi
 
 Make sure you have the following R packages installed:
 ```R
-install.packages(c("ggplot2", "dplyr", "stats", "factoextra"))
+install.packages(c("ggplot2", "dplyr", "stats", "factoextra", "GPA","PCA"))
 
 
 ## How to Run
